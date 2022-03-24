@@ -1,0 +1,26 @@
+Charmander
+https://seeklogo.com/images/C/charmander-logo-193AF64F48-seeklogo.com.png
+Força:
+Ataque: 
+Defesa: 
+Altura:
+Agilidade:
+
+Squirtle
+https://seeklogo.com/images/S/squirtle-logo-0E4AE193EE-seeklogo.com.png
+Força:
+Ataque:
+Defesa:
+Altura:
+Agilidade:
+
+Bulbasaur
+https://seeklogo.com/images/B/bulbasaur-logo-8A27924C02-seeklogo.com.png
+Força:
+Ataque:
+Defesa:
+Altura:
+Agilidade:
+
+
+background image: https://i.pinimg.com/736x/47/b9/14/47b91495e80426f8b2d419a23c80da59--backgrounds-final.jpg
