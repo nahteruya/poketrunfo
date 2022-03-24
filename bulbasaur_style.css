@@ -18,7 +18,7 @@ body {
 
 .carta {
     margin: 50px auto;
-    background-color: mediumturquoise;
+    background-color: darkgreen;
     border-radius: 15px;
     padding: 15px 10px;
     max-width: 400px;
@@ -41,7 +41,7 @@ body {
     width: 100%;
     max-width: 200px;
     position: absolute;
-    top: 400px;
+    top: 370px;
     left: 600px;
 }
 
